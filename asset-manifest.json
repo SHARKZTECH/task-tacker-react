@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/task-tacker-react/static/css/main.7d693b92.chunk.css",
+    "main.js": "/task-tacker-react/static/js/main.2fea9687.chunk.js",
+    "main.js.map": "/task-tacker-react/static/js/main.2fea9687.chunk.js.map",
+    "runtime-main.js": "/task-tacker-react/static/js/runtime-main.3b727bc7.js",
+    "runtime-main.js.map": "/task-tacker-react/static/js/runtime-main.3b727bc7.js.map",
+    "static/js/2.45f541ca.chunk.js": "/task-tacker-react/static/js/2.45f541ca.chunk.js",
+    "static/js/2.45f541ca.chunk.js.map": "/task-tacker-react/static/js/2.45f541ca.chunk.js.map",
+    "index.html": "/task-tacker-react/index.html",
+    "static/css/main.7d693b92.chunk.css.map": "/task-tacker-react/static/css/main.7d693b92.chunk.css.map",
+    "static/js/2.45f541ca.chunk.js.LICENSE.txt": "/task-tacker-react/static/js/2.45f541ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b727bc7.js",
+    "static/js/2.45f541ca.chunk.js",
+    "static/css/main.7d693b92.chunk.css",
+    "static/js/main.2fea9687.chunk.js"
+  ]
+}
