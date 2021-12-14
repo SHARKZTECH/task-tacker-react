@@ -14,12 +14,15 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
+  "homepage": "https://sharkztech.github.io/task-tacker-react/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "server": "json-server --watch db.json --port 5000"
+    "server": "json-server --watch db.json --port 5000",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -38,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
